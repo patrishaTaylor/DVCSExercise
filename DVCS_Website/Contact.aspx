@@ -2,12 +2,12 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
+    <h3>I changed this h3.  Yay me</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        Address Street Road<br />
+        A place, city, location town, T6A3D2<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        000-000-0000
     </address>
 
     <address>
