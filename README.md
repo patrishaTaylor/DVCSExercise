@@ -13,7 +13,7 @@ Matching:
 Short Answer & Multiple Choice
 
 1)Under which menu item is the Show in Explorer option. = Repository
-2)Under which menu item can you Add or Clone repositories. = Repository
+2)Under which menu item can you Add or Clone repositories. = File
 3)Under which menu item can you open your Command Prompt. = Repository
 4)List the four views that you can change to under View. = Changes, History, Repository List, Branch List
 5)List the two items you can edit under Repository → Repository settings ... = remote origin and ignored files
